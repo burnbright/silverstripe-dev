@@ -4,4 +4,4 @@
 
  ## Usage
 
- Vist youtsite.com/test to see a test form.
+ Vist `yourtsite.com/test` to see a test form.

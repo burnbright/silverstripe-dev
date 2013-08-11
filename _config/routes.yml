@@ -1,0 +1,7 @@
+---
+Name: devcontrollerroutes
+After: '#rootroutes'
+---
+Director:
+  rules:
+    'test': 'DevelopmentTestPage_Controller'
